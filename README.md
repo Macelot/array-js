@@ -1,4 +1,4 @@
-```markdown
+
 # Operações de Array em JavaScript
 
 As operações de array em JavaScript são vastas e poderosas, permitindo manipular e trabalhar com coleções de dados de diversas maneiras. Aqui estão as principais categorias e operações com exemplos:
@@ -233,4 +233,3 @@ As operações de array em JavaScript são vastas e poderosas, permitindo manipu
 * **`toLocaleString(locales, options)`:** Retorna uma string localizada representando os elementos.
 
 Dominar essas operações é fundamental para trabalhar eficientemente com arrays em JavaScript. Lembre-se da diferença entre métodos que modificam o array original (*in place*) e aqueles que retornam um novo array.
-```
